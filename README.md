@@ -4,12 +4,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-gif" width="500" />
-</div>
-
----
-
 ## 🌟 About Me
 - **💻 Specialized in**: Backend Development, Machine Learning, Frontend Development, and Data Analytics
 - **📚 Currently learning**: Advanced ML models, Cloud Computing, and System Design
