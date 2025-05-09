@@ -1,6 +1,6 @@
 # 👋 Hello, I'm **Oki Nurul Abada**!
 
-## Passionate Backend Developer | Data Analytics Geek | Machine Learning Enthusiast
+<img src="top-banner.png" alt="GitHub Banner" width="100%" />
 
 # 💫 About Me:
 
@@ -25,3 +25,5 @@ I'm looking to collaborate in Data Analytics or Develop Back-end Application<br>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onuda22/onuda22/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/onuda22/onuda22/output/github-snake.svg" />
 </picture>
+
+<img src="bot-banner.png" alt="GitHub Banner" width="100%" />
