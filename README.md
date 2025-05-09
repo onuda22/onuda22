@@ -16,14 +16,14 @@ I'm looking to collaborate in Data Analytics or Develop Back-end Application<br>
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=onuda22&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=onuda22&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=onuda22&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=onuda22&theme=default&hide_border=false&include_all_commits=false&count_private=true" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=onuda22&theme=default&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onuda22&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onuda22/onuda22/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onuda22/onuda22/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/onuda22/onuda22/output/github-snake.svg" />
 </picture>
-
-<img src="bot-banner.png" alt="GitHub Banner" width="100%" />
