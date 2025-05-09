@@ -17,9 +17,10 @@ I'm looking to collaborate in Data Analytics or Develop Back-end Application<br>
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onuda22&theme=default&hide_border=false&include_all_commits=false&count_private=true" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=onuda22&theme=default&hide_border=false&include_all_commits=false&count_private=true" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=onuda22&theme=default&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onuda22&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onuda22&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact" /><br/>
+  
 </div>
 
 <picture>
