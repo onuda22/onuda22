@@ -1,60 +1,17 @@
 # 👋 Hello, I'm **Oki Nurul Abada**!
 
-## Passionate Backend Developer | Machine Learning Enthusiast | Frontend Explorer | Data Analytics Geek
-<div align="center">
-  <a href="https://www.linkedin.com/in/oki-nurul-abada-2b0690233/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/OkiMisbahudin" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:okinabada@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+## Passionate Backend Developer | Data Analytics Geek | Machine Learning Enthusiast
 
-## 🌟 About Me
-- **💻 Specialized in**: Backend Development, Machine Learning, Frontend Development, and Data Analytics
-- **📚 Currently learning**: Advanced ML models, Cloud Computing, and System Design
-- **💬 Ask me about**: Anything related to Python, Spring Boot, React, or Data Visualization
-- **⚡ Fun fact**: I love solving real-world problems with predictive models!
-
----
-
-## 💻 My Tech Stack
-
-<div align="center">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/-Python-333?logo=python&logoColor=yellow&style=for-the-badge" alt="Python" />
-  <img src="https://img.shields.io/badge/-Java-333?logo=java&logoColor=red&style=for-the-badge" alt="Java" />
-  <img src="https://img.shields.io/badge/-JavaScript-333?logo=javascript&logoColor=yellow&style=for-the-badge" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-SQL-333?logo=mysql&logoColor=blue&style=for-the-badge" alt="SQL" />
-
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/-SpringBoot-333?logo=springboot&logoColor=6DB33F&style=for-the-badge" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/-Node.js-333?logo=node.js&logoColor=green&style=for-the-badge" alt="Node.js" />
-
-  <!-- Machine Learning & Data Science -->
-  <img src="https://img.shields.io/badge/-TensorFlow-333?logo=tensorflow&logoColor=orange&style=for-the-badge" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/-Scikit--Learn-333?logo=scikitlearn&logoColor=blue&style=for-the-badge" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/-Pandas-333?logo=pandas&logoColor=white&style=for-the-badge" alt="Pandas" />
-
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/-React-333?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-333?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge" alt="TailwindCSS" />
-
-  <!-- Data Analytics -->
-  <img src="https://img.shields.io/badge/-Tableau-333?logo=tableau&logoColor=orange&style=for-the-badge" alt="Tableau" />
-  <img src="https://img.shields.io/badge/-PowerBI-333?logo=powerbi&logoColor=yellow&style=for-the-badge" alt="PowerBI" />
-</div>
+# 💫 About Me:
+I'm looking to collaborate in Data Analytics or Develop Back-end Application<br>Currently learning in SQL and Python, for gaining deep insight in Data Analytics<br>also using Matplotlib and Seaborn for Data Visualization.<br>Beside that I do have knowledge in Java Spring Boot for Back-end Engineering
 
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oki-nurul-abada) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:okinabada@gmail.com) 
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onuda22&show_icons=true&theme=radical" alt="GitHub Stats" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onuda22&layout=compact&theme=radical" alt="Top Languages" height="150px" />
-</div>
-
----
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=onuda22&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=onuda22&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=onuda22&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
